@@ -1,0 +1,75 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2032 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\KdTreeLib.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\KdTreeLib.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\Poly2Tri.dll (this message is harmless)
+Loading D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\Poly2Tri.dll into Unity Child Domain
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.028 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1758)
+
+UnloadTime: 2.255787 ms
+Platform assembly: D:\unity UCI\Earthquake 최종발표\EarthQuake 최종\EarthQuake\EarthQuake_Data\Managed\Boo.Lang.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1b40 -> priority: 1 
+  Thread -> id: 208 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.472536 ms
+
+Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 344.
+Total: 0.685653 ms (FindLiveObjects: 0.099413 ms CreateObjectMapping: 0.035840 ms MarkObjects: 0.229973 ms  DeleteObjects: 0.320000 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.255573 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1309.
+Total: 1.292373 ms (FindLiveObjects: 0.149333 ms CreateObjectMapping: 0.066560 ms MarkObjects: 0.427946 ms  DeleteObjects: 0.646826 ms)
+
